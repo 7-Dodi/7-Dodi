@@ -12,5 +12,12 @@ Tecnologias que mais uso nos meus projetos:
     <img style="aligin= center" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
     <img style="aligin= center" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
 </div><br>
+Estudando no momento:
+<div style="display: inline-block"><br>
+    <img style="aligin= center" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+    <img style="aligin= center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JAVASCRIPT">
+    <img style="aligin= center" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="LUA">
+    <img style="aligin= center" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
+</div><br>
 
 Apaixonado por tecnologia, educação e por mudar a vidas das pessoas através da programação.
