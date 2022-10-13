@@ -1,10 +1,2 @@
-- 👋 Hi, I’m @7-Dodi
-- 👀 I’m interested in  desenvolver minhas habilidades no mundo da programação
-- 🌱 I’m currently learning  linguagem C e HTML e CSS
-- 💞️ I’m looking to collaborate on  em alguns projetos
-- 📫 How to reach me: Instagrma @7_douglassilva
+Olá!! Eu sou o Douglas ![image](https://user-images.githubusercontent.com/107079647/195719073-c2a41694-5cb2-4df6-a85e-3c9991741bb4.png)
 
-<!---
-7-Dodi/7-Dodi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
